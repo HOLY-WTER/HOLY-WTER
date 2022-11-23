@@ -1,5 +1,5 @@
 ### Hi there 👋
 
-  <img align="right" alt="Coding" width="400" src="./original.gif">
+  <img align="right" alt="Coding" width="1000" src="./original.gif">
 
 
