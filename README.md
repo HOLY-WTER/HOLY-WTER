@@ -4,11 +4,11 @@
 
 </p>
 <p align="center">
-  <a href="https://twitter.com">
-     <img src="https://skillicons.dev/icons?i=twitter" />
+  <a href="https://twitter.com"Twitter>
+ 
   </a> •
-  <a href="https://www.facebook.com/monmonten">
-    <img alt="Coding" width="65" src="./pngegg (2).png" />
+  <a href="https://www.facebook.com/monmonten"Facebook>
+ 
   </a>
 </p>
 
