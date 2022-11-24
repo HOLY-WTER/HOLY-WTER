@@ -8,7 +8,7 @@
      <img src="https://skillicons.dev/icons?i=twitter" />
   </a> •
   <a href="https://www.facebook.com/monmonten">
-    <img alt="Coding" width="50" src="./pngegg (2).png" />
+    <img alt="Coding" width="65" src="./pngegg (2).png" />
   </a>
 </p>
 
