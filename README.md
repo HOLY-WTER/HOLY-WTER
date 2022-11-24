@@ -5,7 +5,7 @@
 </p>
 <p align="center">
   <a href="https://twitter.com">
-     <img src="https://skillicons.dev/icons?i=js" />
+     <img src="https://skillicons.dev/icons?i=twitter" />
   </a> •
   <a href="https://www.facebook.com/monmonten">Facebook</a>
 </p>
