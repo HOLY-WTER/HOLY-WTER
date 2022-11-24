@@ -5,7 +5,7 @@
 </p>
 <p align="center">
   <a href="https://twitter.com">Twitter</a> •
-  <a href="https://www.facebook.com/monmonten" >Facebook</a>
+  <a href="https://www.linkedin.com/in/porramin-sritong-096428257/" >Linkedin</a>
 </p>
 
 ---
