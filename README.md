@@ -12,5 +12,5 @@
 </p>
 <p align="center">
 I am an undergraduate student with a strong interest in
-Machine learning, Deep learning, and Data science.
+Machine learning, Deep learning, and Data science. i am cat person.
 </p>
