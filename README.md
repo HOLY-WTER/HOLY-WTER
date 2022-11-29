@@ -1,7 +1,7 @@
 
 <img align="right" alt="Coding" width="1000" src="./original.gif">
 <h3 align="center"> Hi there 👋 , I am Nammon</h3>
-
+<h3 align="center"> Cat person</h3>
 </p>
 <p align="center">
   <a href="https://twitter.com">Twitter</a> •
@@ -12,5 +12,5 @@
 </p>
 <p align="center">
 I am an undergraduate student with a strong interest in
-Machine learning, Deep learning, and Data science. i am cat person.
+Machine learning, Deep learning, and Devops. 
 </p>
