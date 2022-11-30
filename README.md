@@ -4,7 +4,7 @@
 <h3 align="center"> Cat person</h3>
 </p>
 <p align="center">
-  <a href="https://twitter.com">Twitter</a> •
+  <!--<a href="https://twitter.com">Twitter</a> •-->
   <a href="https://www.linkedin.com/in/porramin-sritong-096428257/" >Linkedin</a>
 </p>
 
